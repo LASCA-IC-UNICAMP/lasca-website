@@ -1,247 +1,1488 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.62056/a6n59qgxq
+  title: Efficient isochronous fixed-weight sampling with applications to NTRU
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - "D\xE9cio Filho"
+  - "Tom\xE1s Silva"
+  - "Julio L\xF3pez"
+  publisher: IACR Communications in Cryptology
+  date: '2024-07-08'
+  link: https://doi.org/gt5bb9
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: doi:10.62056/a3txommol
+  title: Fast polynomial multiplication using matrix multiplication accelerators with
+    applications to NTRU on Apple M1/M3 SoCs
+  authors:
+  - "D\xE9cio Filho"
+  - "Guilherme Brand\xE3o"
+  - "Julio L\xF3pez"
+  publisher: IACR Communications in Cryptology
+  date: '2024-04-09'
+  link: https://doi.org/gt5bcb
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: doi:10.5433/1679-0375.2023.v44.48268
+  title: Real-Time Ego-Lane Detection in a Low-Cost Embedded Platform using CUDA-Based
+    Implementation
+  authors:
+  - "Guilherme Brand\xE3o Da Silva"
+  - Daniel Strufaldi Batista
+  - "D\xE9cio Luiz Gazzoni Filho"
+  - Marcelo Carvalho Tosin
+  - "Leonimer Fl\xE1vio Melo"
+  publisher: "Semina: Ci\xEAncias Exatas e Tecnol\xF3gicas"
+  date: '2023-09-11'
+  link: https://doi.org/gt5bcc
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: doi:10.5753/sbseg.2022.224450
+  title: Evaluation of CRYSTALS-Kyber and Saber on the ARMv8 architecture
+  authors:
+  - Jheyne N. Ortiz
+  - "F\xE9lix Carvalho Rodrigues"
+  - "D\xE9cio Gazzoni Filho"
+  - Caio Teixeira
+  - "Julio L\xF3pez"
+  - Ricardo Dahab
+  publisher: "Anais do XXII Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\xE3\
+    o e de Sistemas Computacionais (SBSeg 2022)"
+  date: '2022-09-12'
+  link: https://doi.org/gt5bcd
+  orcid: 0000-0002-7002-875X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.5753/sbseg.2022.224951
+  title: Evaluation of modular multiplication techniques for Supersingular Isogeny
+    Schemes on ARMv8 cores
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Vitor Satoru Machi Matsumine
+  - "F\xE9lix Carvalho Rodrigues"
+  - "D\xE9cio Gazzoni Filho"
+  - Caio Teixeira
+  - "Julio L\xF3pez"
+  - Ricardo Dahab
+  publisher: "Anais do XXII Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\xE3\
+    o e de Sistemas Computacionais (SBSeg 2022)"
+  date: '2022-09-12'
+  link: https://doi.org/gt5bcf
+  orcid: 0000-0002-7002-875X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: isbn:978-3-030-40921-0
+  title: "Lecture notes in computer science. 11975: Information Security and Cryptology\
+    \ \u2013 ICISC 2019: 22nd International Conference, Seoul, South Korea, December\
+    \ 4\u20136, 2019, Revised Selected Papers / Jae Hong Seo (Ed.)"
+  authors: []
+  publisher: Springer
+  date: '1197-01-01'
+  link: ''
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.1016/j.entcs.2019.04.003
+  title: On Fair Cost Facility Location Games with Non-singleton Players
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - "F\xE9lix Carvalho Rodrigues"
+  - Eduardo C. Xavier
+  - "Guido Sch\xE4fer"
+  publisher: Electronic Notes in Theoretical Computer Science
+  date: '2019-04-01'
+  link: https://doi.org/gt5bfh
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.1016/j.ipl.2016.09.001
+  title: Non-cooperative capacitated facility location games
+  authors:
+  - "F\xE9lix Carvalho Rodrigues"
+  - Eduardo Candido Xavier
+  publisher: Information Processing Letters
+  date: '2017-01-01'
+  link: https://doi.org/gt5bfj
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.4230/OASIcs.ATMOS.2011.122
+  title: On the Smoothed Price of Anarchy of the Traffic Assignment Problem
+  authors:
+  - Luciana Buriol
+  - Marcus Ritt
+  - Felix Rodrigues
+  - "Guido Sch\xE4fer"
+  publisher: "Schloss Dagstuhl \u2013 Leibniz-Zentrum f\xFCr Informatik"
+  date: '2011-01-01'
+  link: https://doi.org/gt5bfk
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.62056/anxrxrxqi
+  title: Towards Practical Transciphering for FHE with Setup Independent of the Plaintext
+    Space
+  authors:
+  - "Pierrick M\xE9aux"
+  - Jeongeun Park
+  - Hilder Pereira
+  publisher: IACR Communications in Cryptology
+  date: '2024-04-09'
+  link: https://doi.org/gt5bcg
+  orcid: 0000-0003-1303-3760
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.62056/a6ksdkp10
+  title: Verifiable FHE via Lattice-based SNARKs
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Shahla Atapoor
+  - Karim Baghery
+  - Hilder Pereira
+  - Jannik Spiessens
+  publisher: IACR Communications in Cryptology
+  date: '2024-04-09'
+  link: https://doi.org/gt5bch
+  orcid: 0000-0003-1303-3760
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1007/978-981-97-5025-2_8
+  title: "NTRU-Based FHE for\_Larger Key and\_Message Space"
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Robin Jadoul
+  - Axel Mertens
+  - Jeongeun Park
+  - Hilder V. L. Pereira
+  publisher: Information Security and Privacy
+  date: '2024-01-01'
+  link: https://doi.org/gt5bcj
+  orcid: 0000-0003-1303-3760
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1007/978-981-99-8736-8_1
+  title: 'Amortized Bootstrapping Revisited: Simpler, Asymptotically-Faster, Implemented'
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - "Antonio Guimar\xE3es"
+  - Hilder V. L. Pereira
+  - Barry van Leeuwen
+  publisher: "Advances in Cryptology \u2013 ASIACRYPT 2023"
+  date: '2023-01-01'
+  link: https://doi.org/gt5bck
+  orcid: 0000-0003-1303-3760
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1007/978-3-031-22966-4_7
+  title: "FINAL: Faster FHE Instantiated with\_NTRU and\_LWE"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Charlotte Bonte
+  - Ilia Iliashenko
+  - Jeongeun Park
+  - Hilder V. L. Pereira
+  - Nigel P. Smart
+  publisher: "Advances in Cryptology \u2013 ASIACRYPT 2022"
+  date: '2022-01-01'
+  link: https://doi.org/gt5bcm
+  orcid: 0000-0003-1303-3760
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1007/978-3-030-75245-3_13
+  title: Bootstrapping Fully Homomorphic Encryption over the Integers in Less than
+    One Second
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Hilder Vitor Lima Pereira
+  publisher: "Public-Key Cryptography \u2013 PKC 2021"
+  date: '2021-01-01'
+  link: https://doi.org/gt5bcn
+  orcid: 0000-0003-1303-3760
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
+- id: isbn:978-3-030-57808-4
+  title: Applied cryptography and network security. Part 1
+  authors: []
+  publisher: Springer
   date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  link: ''
+  orcid: 0000-0003-1303-3760
+  plugin: orcid.py
+  file: orcid.yaml
+- id: isbn:978-3-030-34621-8
+  title: 'Advances in cryptology - ASIACRYPT 2019: 25th International Conference on
+    the Theory and Application of Cryptology and Information Security, Kobe, Japan,
+    December 8-12, 2019: proceedings. Part 2'
+  authors: []
+  publisher: Springer
+  date: '2019-01-01'
+  link: ''
+  orcid: 0000-0003-1303-3760
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TR.2023.3237849
+  title: 'Detecting Cryptography Misuses With Machine Learning: Graph Embeddings,
+    Transfer Learning and Data Augmentation in Source Code Related Tasks'
+  authors:
+  - Gustavo Eloi de Paula Rodrigues
+  - Alexandre M. Braga
+  - Ricardo Dahab
+  publisher: IEEE Transactions on Reliability
+  date: '2023-12-01'
+  link: https://doi.org/gt5bcp
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/e23091108
+  title: 'The Ring-LWE Problem in Lattice-Based Cryptography: The Case of Twisted
+    Embeddings'
+  authors:
+  - Jheyne N. Ortiz
+  - Robson R. de Araujo
+  - Diego F. Aranha
+  - Sueli I. R. Costa
+  - Ricardo Dahab
+  publisher: Entropy
+  date: '2021-08-26'
+  link: https://doi.org/gt5bcq
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.PROCS.2021.11.035
+  title: "Tutte\u2019s 3-flow Conjecture for almost even graphs"
+  authors:
+  - "L\xE9o Vieira Peres"
+  - Ricardo Dahab
+  publisher: Procedia Computer Science
+  date: '2021-01-01'
+  link: https://doi.org/gt5bcr
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3934/AMC.2020048
+  title: Isogeny formulas for Jacobi intersection and twisted hessian curves
+  authors:
+  - "Jo\xE3o Paulo da Silva"
+  - "Julio L\xF3pez"
+  - Ricardo Dahab
+  publisher: Advances in Mathematics of Communications
+  date: '2019-01-01'
+  link: https://doi.org/gt5bcs
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICMLA51294.2020.00171
+  title: Using Graph Embeddings and Machine Learning to Detect Cryptography Misuse
+    in Source Code
+  authors:
+  - Gustavo Eloi de P. Rodrigues
+  - Alexandre M. Braga
+  - Ricardo Dahab
+  publisher: 2020 19th IEEE International Conference on Machine Learning and Applications
+    (ICMLA)
+  date: '2020-12-01'
+  link: https://doi.org/gq4wp4
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20396/revpibic2720192087
+  title: Characterizing lattices for cryptography
+  authors:
+  - Tomas Rodrigues e Silva
+  - Ricardo Dahab
+  publisher: Resumos do...
+  date: '2019-12-20'
+  link: https://doi.org/gt5bct
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20396/revpibic2720191576
+  title: Choosing parameters for trellis-based encryption systems
+  authors:
+  - Caio Teixeira
+  - Ricardo Dahab
+  publisher: Resumos do...
+  date: '2019-11-30'
+  link: https://doi.org/gt5bcv
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3309759
+  title: High-performance Implementation of Elliptic Curve Cryptography Using Vector
+    Instructions
+  authors:
+  - "Armando Faz-Hern\xE1ndez"
+  - "Julio L\xF3pez"
+  - Ricardo Dahab
+  publisher: ACM Transactions on Mathematical Software
+  date: '2019-07-30'
+  link: https://doi.org/ghnh94
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-30530-7_17
+  title: Fast White-Box Implementations of Dedicated Ciphers on the ARMv8 Architecture
+  authors:
+  - "F\xE9lix Carvalho Rodrigues"
+  - Hayato Fujii
+  - Ana Clara Zoppi Serpa
+  - Giuliano Sider
+  - Ricardo Dahab
+  - "Julio L\xF3pez"
+  publisher: "Progress in Cryptology \u2013 LATINCRYPT 2019"
+  date: '2019-01-01'
+  link: https://doi.org/gt5bcw
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tr.2019.2937214
+  title: Understanding How to Use Static Analysis Tools for Detecting Cryptography
+    Misuse in Software
+  authors:
+  - Alexandre Braga
+  - Ricardo Dahab
+  - Nuno Antunes
+  - Nuno Laranjeiro
+  - Marco Vieira
+  publisher: IEEE Transactions on Reliability
+  date: '2019-12-01'
+  link: https://doi.org/gt5bcx
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jvcir.2018.04.002
+  title: 'Connecting the dots: Toward accountable machine-learning printer attribution
+    methods'
+  authors:
+  - Luiz C. Navarro
+  - Alexandre K.W. Navarro
+  - Anderson Rocha
+  - Ricardo Dahab
+  publisher: Journal of Visual Communication and Image Representation
+  date: '2018-05-01'
+  link: https://doi.org/gdmq8v
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cose.2018.07.013
+  title: Leveraging ontologies and machine-learning techniques for malware analysis
+    into Android permissions ecosystems
+  authors:
+  - Luiz C. Navarro
+  - Alexandre K.W. Navarro
+  - "Andr\xE9 Gr\xE9gio"
+  - Anderson Rocha
+  - Ricardo Dahab
+  publisher: Computers &amp; Security
+  date: '2018-09-01'
+  link: https://doi.org/gfhgfx
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISSRE.2017.27
+  title: 'Practical Evaluation of Static Analysis Tools for Cryptography: Benchmarking
+    Method and Case Study'
+  authors:
+  - Alexandre Braga
+  - Ricardo Dahab
+  - Nuno Antunes
+  - Nuno Laranjeiro
+  - Marco Vieira
+  publisher: 2017 IEEE 28th International Symposium on Software Reliability Engineering
+    (ISSRE)
+  date: '2017-10-01'
+  link: https://doi.org/gt5bcz
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICSSA.2016.12
+  title: Towards a Methodology for the Development of Secure Cryptographic Software
+  authors:
+  - Alexandre Melo Braga
+  - Ricardo Dahab
+  publisher: 2016 International Conference on Software Security and Assurance (ICSSA)
+  date: '2016-08-01'
+  link: https://doi.org/gt5bc2
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/HST.2016.7495564
+  title: 'ACBuilder: A tool for hardware architecture security evaluation'
+  authors:
+  - Henrique Kawakami
+  - David Ott
+  - Hao-Chi Wong
+  - Ricardo Dahab
+  - Roberto Gallo
+  publisher: 2016 IEEE International Symposium on Hardware Oriented Security and Trust
+    (HOST)
+  date: '2016-05-01'
+  link: https://doi.org/gt5bc3
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/QRS-C.2016.23
+  title: Mining Cryptography Misuse in Online Forums
+  authors:
+  - Alexandre Braga
+  - Ricardo Dahab
+  publisher: 2016 IEEE International Conference on Software Quality, Reliability and
+    Security Companion (QRS-C)
+  date: '2016-08-01'
+  link: https://doi.org/gt5bc4
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-17470-9_17
+  title: Adaptive Key Recovery Attacks on NTRU-Based Somewhat Homomorphic Encryption
+    Schemes
+  authors:
+  - Ricardo Dahab
+  - Steven Galbraith
+  - Eduardo Morais
+  publisher: Lecture Notes in Computer Science
+  date: '2015-01-01'
+  link: https://doi.org/gt5bc5
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-18500-2_2
+  title: "Assurance Cases as a Didactic Tool for\_Information Security"
+  authors:
+  - Roberto Gallo
+  - Ricardo Dahab
+  publisher: Information Security Education Across the Curriculum
+  date: '2015-01-01'
+  link: https://doi.org/gt5bc6
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-24126-5_17
+  title: Efficient and Secure Elliptic Curve Cryptography for 8-bit AVR Microcontrollers
+  authors:
+  - Erick Nascimento
+  - "Julio L\xF3pez"
+  - Ricardo Dahab
+  publisher: Security, Privacy, and Applied Cryptography Engineering
+  date: '2015-01-01'
+  link: https://doi.org/gt5bc7
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ARES.2015.60
+  title: Hardware Security Evaluation Using Assurance Case Models
+  authors:
+  - Henrique Kawakami
+  - Roberto Gallo
+  - Ricardo Dahab
+  - Erick Nascimento
+  publisher: 2015 10th International Conference on Availability, Reliability and Security
+  date: '2015-08-01'
+  link: https://doi.org/gt5bc8
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2766498.2766519
+  title: 'Security and system architecture: comparison of Android customizations'
+  authors:
+  - Roberto Gallo
+  - Patricia Hongo
+  - Ricardo Dahab
+  - Luiz C. Navarro
+  - Henrique Kawakami
+  - "Kaio Galv\xE3o"
+  - Glauber Junqueira
+  - Luander Ribeiro
+  publisher: Proceedings of the 8th ACM Conference on Security &amp; Privacy in Wireless
+    and Mobile Networks
+  date: '2015-06-22'
+  link: https://doi.org/gt5bc9
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TrustCom.2013.203
+  title: 'Case Study: On the Security of Key Storage on PCs'
+  authors:
+  - Roberto Gallo
+  - Henrique Kawakami
+  - Ricardo Dahab
+  publisher: 2013 12th IEEE International Conference on Trust, Security and Privacy
+    in Computing and Communications
+  date: '2013-07-01'
+  link: https://doi.org/gt5bdb
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00200-013-0197-9
+  title: 'E-commerce of digital items and the problem of item validation: introducing
+    the concept of reversible degradation'
+  authors:
+  - Fabio Piva
+  - Ricardo Dahab
+  publisher: Applicable Algebra in Engineering, Communication and Computing
+  date: '2013-07-02'
+  link: https://doi.org/f47kng
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jss.2013.03.059
+  title: "FORTUNA\u2014A framework for the design and development of hardware-based\
+    \ secure systems"
+  authors:
+  - Roberto Gallo
+  - Henrique Kawakami
+  - Ricardo Dahab
+  publisher: Journal of Systems and Software
+  date: '2013-08-01'
+  link: https://doi.org/gt5bdc
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-40588-4_10
+  title: Fast Software Polynomial Multiplication on ARM Processors Using the NEON
+    Engine
+  authors:
+  - "Danilo C\xE2mara"
+  - "Conrado P. L. Gouv\xEAa"
+  - "Julio L\xF3pez"
+  - Ricardo Dahab
+  publisher: Security Engineering and Intelligence Informatics
+  date: '2013-01-01'
+  link: https://doi.org/gt5bdd
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:18908939
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:18908939
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000342217900040
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000342217900040
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICNSS.2011.6059999
+  title: FORTUNA - A probabilistic framework for early design stages of hardware-based
+    secure systems
+  authors:
+  - Roberto Gallo
+  - Henrique Kawakami
+  - Ricardo Dahab
+  publisher: 2011 5th International Conference on Network and System Security
+  date: '2011-09-01'
+  link: https://doi.org/b8qf32
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ITW.2011.6089439
+  title: LWE-based identification schemes
+  authors:
+  - Rosemberg Silva
+  - Antonio C. de A. Campello
+  - Ricardo Dahab
+  publisher: 2011 IEEE Information Theory Workshop
+  date: '2011-10-01'
+  link: https://doi.org/bpfc7v
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.comcom.2010.05.013
+  title: 'TinyPBC: Pairings for authenticated identity-based non-interactive key distribution
+    in sensor networks'
+  authors:
+  - Leonardo B. Oliveira
+  - Diego F. Aranha
+  - "Conrado P.L. Gouv\xEAa"
+  - Michael Scott
+  - "Danilo F. C\xE2mara"
+  - "Julio L\xF3pez"
+  - Ricardo Dahab
+  publisher: Computer Communications
+  date: '2011-03-01'
+  link: https://doi.org/fqbmjk
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3934/amc.2010.4.169
+  title: Efficient implementation of elliptic curve cryptography in wireless sensors
+  authors:
+  - Diego Aranha
+  - Ricardo Dahab
+  - "Julio L\xF3pez"
+  - Leonardo Oliveira
+  publisher: Advances in Mathematics of Communications
+  date: '2010-05-01'
+  link: https://doi.org/d9mtgk
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000288935800009
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000288935800009
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-16441-5_9
+  title: On Device Identity Establishment and Verification
+  authors:
+  - Roberto Gallo
+  - Henrique Kawakami
+  - Ricardo Dahab
+  publisher: Public Key Infrastructures, Services and Applications
+  date: '2010-01-01'
+  link: https://doi.org/ftjrjm
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/1920261.1920291
+  title: T-DRE
+  authors:
+  - Roberto Gallo
+  - Henrique Kawakami
+  - Ricardo Dahab
+  - Rafael Azevedo
+  - Saulo Lima
+  - Guido Araujo
+  publisher: Proceedings of the 26th Annual Computer Security Applications Conference
+  date: '2010-12-06'
+  link: https://doi.org/fv8h72
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICC.2009.5199433
+  title: SB-RAWVec - A Semi-Blind Watermarking Method for Vector Maps
+  authors:
+  - K. Magalhaes
+  - R. Dahab
+  publisher: 2009 IEEE International Conference on Communications
+  date: '2009-06-01'
+  link: https://doi.org/bbmr7k
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-77690-1_19
+  title: 'NanoECC: Testing the Limits of Elliptic Curve Cryptography in Sensor Networks'
+  authors:
+  - Piotr Szczechowiak
+  - Leonardo B. Oliveira
+  - Michael Scott
+  - Martin Collier
+  - Ricardo Dahab
+  publisher: Lecture Notes in Computer Science
+  date: ''
+  link: https://doi.org/b4np6d
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000253413500019
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000253413500019
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/INSS.2008.4610921
+  title: 'TinyPBC: Pairings for authenticated identity-based non-interactive key distribution
+    in sensor networks'
+  authors:
+  - Leonardo B. Oliveira
+  - Michael Scott
+  - Julio Lopez
+  - Ricardo Dahab
+  publisher: 2008 5th International Conference on Networked Sensing Systems
+  date: '2008-06-01'
+  link: https://doi.org/cs6n6n
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11265-006-0015-8
+  title: A Custom Instruction Approach for Hardware and Software Implementations of
+    Finite Field Arithmetic over $$\mathbb{F}_{{2^{{163}} }} $$ using Gaussian Normal
+    Bases
+  authors:
+  - Marcio Juliato
+  - Guido Araujo
+  - "Julio L\xF3pez"
+  - Ricardo Dahab
+  publisher: The Journal of VLSI Signal Processing Systems for Signal, Image, and
+    Video Technology
+  date: '2007-03-27'
+  link: https://doi.org/fnxqnh
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/PERCOMW.2007.56
+  title: Identity-Based Encryption for Sensor Networks
+  authors:
+  - Leonardo B. Oliveira
+  - Ricardo Dahab
+  - Julio Lopez
+  - Felipe Daguano
+  - Antonio A.F. Loureiro
+  publisher: Fifth Annual IEEE International Conference on Pervasive Computing and
+    Communications Workshops (PerComW'07)
+  date: '2007-03-01'
+  link: https://doi.org/fqnwdv
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-73489-5_10
+  title: Implementing Cryptographic Pairings over Barreto-Naehrig Curves
+  authors:
+  - Augusto Jun Devegili
+  - Michael Scott
+  - Ricardo Dahab
+  publisher: "Pairing-Based Cryptography \u2013 Pairing 2007"
+  date: ''
+  link: https://doi.org/dv3r86
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000247908000010
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000247908000010
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/PERCOMW.2007.107
+  title: 'SOS: Secure Overlay Sensornets'
+  authors:
+  - Leonardo B. Oliveira
+  - A.A.F. Loureiro
+  - Ricardo Dahab
+  publisher: Fifth Annual IEEE International Conference on Pervasive Computing and
+    Communications Workshops (PerComW'07)
+  date: '2007-03-01'
+  link: https://doi.org/fd2mpd
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.sigpro.2007.05.016
+  title: "SecLEACH\u2014On the security of clustered sensor networks"
+  authors:
+  - Leonardo B. Oliveira
+  - Adrian Ferreira
+  - "Marco A. Vila\xE7a"
+  - Hao Chi Wong
+  - Marshall Bern
+  - Ricardo Dahab
+  - Antonio A.F. Loureiro
+  publisher: Signal Processing
+  date: '2007-12-01'
+  link: https://doi.org/c7rptp
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/NCA.2007.48
+  title: 'TinyTate: Computing the Tate Pairing in Resource-Constrained Sensor Nodes'
+  authors:
+  - Leonardo B. Oliveira
+  - Diego F. Aranha
+  - Eduardo Morais
+  - Felipe Daguano
+  - Julio Lopez
+  - Ricardo Dahab
+  publisher: Sixth IEEE International Symposium on Network Computing and Applications
+    (NCA 2007)
+  date: '2007-07-01'
+  link: https://doi.org/bgr8fb
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000251784900006
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000251784900006
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/NCA.2006.48
+  title: SecLEACH - A Random Key Distribution Solution for Securing Clustered Sensor
+    Networks
+  authors:
+  - Hao C. Wong Leonardo B. Oliveira
+  publisher: Fifth IEEE International Symposium on Network Computing and Applications
+    (NCA'06)
+  date: ''
+  link: https://doi.org/ckzh9j
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TC.2006.132
+  title: Software multiplication using Gaussian normal bases
+  authors:
+  - R. Dahab
+  - D. Hankerson
+  - F. Hu
+  - M. Long
+  - J. Lopez
+  - A. Menezes
+  publisher: IEEE Transactions on Computers
+  date: '2006-08-01'
+  link: https://doi.org/b2psbc
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/FPT.2005.1568517
+  title: A custom instruction approach for hardware and software implementations of
+    finite field arithmetic over F//sub 2/sup163// using Gaussian normal bases
+  authors:
+  - M. Juliato
+  - G. Araujo
+  - J. Lopez
+  - R. Dahab
+  publisher: Proceedings. 2005 IEEE International Conference on Field-Programmable
+    Technology, 2005.
+  date: ''
+  link: https://doi.org/btzqtg
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000224550900024
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000224550900024
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000188940300033
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000188940300033
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/WECWIS.2000.853874
+  title: Two approaches for pay-per-use software construction
+  authors:
+  - L.C. Ferreira
+  - R. Dahab
+  - M.P. Aragao
+  - J.A.P. Magalhaes
+  publisher: Proceedings Second International Workshop on Advanced Issues of E-Commerce
+    and Web-Based Information Systems. WECWIS 2000
+  date: ''
+  link: https://doi.org/dcxndw
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000088608600027
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000088608600027
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000086437300016
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000086437300016
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CSAC.1998.738600
+  title: A scheme for analyzing electronic payment systems
+  authors:
+  - L. de Carvalho Ferreira
+  - R. Dahab
+  publisher: Proceedings 14th Annual Computer Security Applications Conference (Cat.
+    No.98EX217)
+  date: ''
+  link: https://doi.org/ccqp4j
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/SCCC.1998.730787
+  title: An improvement of the Guajardo-Paar method for multiplication on non-supersingular
+    elliptic curves
+  authors:
+  - J. Lopez
+  - R. Dahab
+  publisher: Proceedings SCCC'98. 18th International Conference of the Chilean Society
+    of Computer Science (Cat. No.98EX212)
+  date: ''
+  link: https://doi.org/cwrw8v
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3615366.3615374
+  title: Enhancing Malware Family Classification in the Microsoft Challenge Dataset
+    via Transfer Learning
+  authors:
+  - Marcelo Invert Palma Salas
+  - Paulo De Geus
+  - Marcus Botacin
+  publisher: 12th Latin-American Symposium on Dependable and Secure Computing
+  date: '2023-10-16'
+  link: https://doi.org/gt5kkb
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.COSE.2021.102500
+  title: 'AntiViruses under the microscope: A hands-on perspective'
+  authors:
+  - Marcus Botacin
+  - Felipe Duarte Domingues
+  - "Fabr\xEDcio Ceschin"
+  - Raphael Machnicki
+  - Marco Antonio Zanata Alves
+  - "Paulo L\xEDcio de Geus"
+  - "Andr\xE9 Gr\xE9gio"
+  publisher: Computers &amp; Security
+  date: '2022-01-01'
+  link: https://doi.org/gsjsrb
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3429741
+  title: One Size Does Not Fit All
+  authors:
+  - Marcus Botacin
+  - Hojjat Aghakhani
+  - Stefano Ortolani
+  - Christopher Kruegel
+  - Giovanni Vigna
+  - Daniela Oliveira
+  - "Paulo L\xEDcio De Geus"
+  - "Andr\xE9 Gr\xE9gio"
+  publisher: ACM Transactions on Privacy and Security
+  date: '2021-01-21'
+  link: https://doi.org/gpvk7w
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cose.2020.101859
+  title: 'We need to talk about antiviruses: challenges &amp; pitfalls of AV evaluations'
+  authors:
+  - Marcus Botacin
+  - Fabricio Ceschin
+  - Paulo de Geus
+  - "Andr\xE9 Gr\xE9gio"
+  publisher: Computers &amp; Security
+  date: '2020-08-01'
+  link: https://doi.org/gt5kkc
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20396/revpibic2720192100
+  title: Analysis, comparison and assessment of the behavior of malware and goodware
+  authors:
+  - "Giovanni Bert\xE3o"
+  - Paulo de Geus
+  publisher: Resumos do...
+  date: '2019-12-20'
+  link: https://doi.org/gt5kkd
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20396/revpibic2720192426
+  title: Linux Malware Behavior Description
+  authors:
+  - Lucas Galante
+  - Paulo de Geus
+  - Marcus Botacin
+  publisher: Resumos do...
+  date: '2019-11-30'
+  link: https://doi.org/gt5kkf
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/RECOSOC48741.2019.9034972
+  title: 'The AV says: Your Hardware Definitions Were Updated!'
+  authors:
+  - Marcus Botacin
+  - Lucas Galante
+  - Fabricio Ceschin
+  - Paulo C. Santos
+  - Luigi Carro
+  - Paulo de Geus
+  - Andre Gregio
+  - Marco A. Z. Alves
+  publisher: 2019 14th International Symposium on Reconfigurable Communication-centric
+    Systems-on-Chip (ReCoSoC)
+  date: '2019-07-01'
+  link: https://doi.org/gt5kkg
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11416-019-00333-y
+  title: "\u201CVANILLA\u201D malware: vanishing antiviruses by interleaving layers\
+    \ and layers of attacks"
+  authors:
+  - Marcus Botacin
+  - "Paulo L\xEDcio de Geus"
+  - "Andr\xE9 Gr\xE9gio"
+  publisher: Journal of Computer Virology and Hacking Techniques
+  date: '2019-06-11'
+  link: https://doi.org/gt5kkh
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3152162
+  title: Enhancing Branch Monitoring for Security Purposes
+  authors:
+  - Marcus Botacin
+  - "Paulo L\xEDcio De Geus"
+  - "Andr\xE9 Gr\xE9gio"
+  publisher: ACM Transactions on Privacy and Security
+  date: '2018-01-02'
+  link: https://doi.org/gt5kkj
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-99136-8_3
+  title: 'Lumus: Dynamically Uncovering Evasive Android Applications'
+  authors:
+  - Vitor Afonso
+  - Anatoli Kalysch
+  - "Tilo M\xFCller"
+  - Daniela Oliveira
+  - "Andr\xE9 Gr\xE9gio"
+  - "Paulo L\xEDcio de Geus"
+  publisher: Developments in Language Theory
+  date: '2018-01-01'
+  link: https://doi.org/gt5kkm
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-77028-4_9
+  title: "Malicious Software Classification Using VGG16 Deep Neural Network\u2019\
+    s Bottleneck Features"
+  authors:
+  - Edmar Rezende
+  - Guilherme Ruppert
+  - Tiago Carvalho
+  - Antonio Theophilo
+  - Fabio Ramos
+  - Paulo de Geus
+  publisher: Advances in Intelligent Systems and Computing
+  date: '2018-01-01'
+  link: https://doi.org/gt5kkn
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICMLA.2017.00-19
+  title: Malicious Software Classification Using Transfer Learning of ResNet-50 Deep
+    Neural Network
+  authors:
+  - Edmar Rezende
+  - Guilherme Ruppert
+  - Tiago Carvalho
+  - Fabio Ramos
+  - Paulo de Geus
+  publisher: 2017 16th IEEE International Conference on Machine Learning and Applications
+    (ICMLA)
+  date: '2017-12-01'
+  link: https://doi.org/gjrk86
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11416-017-0292-8
+  title: 'The other guys: automated analysis of marginalized malware'
+  authors:
+  - Marcus Felipe Botacin
+  - "Paulo L\xEDcio de Geus"
+  - "Andr\xE9 Ricardo Abed Gr\xE9gio"
+  publisher: Journal of Computer Virology and Hacking Techniques
+  date: '2017-02-27'
+  link: https://doi.org/gt5kkp
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3199673
+  title: Who Watches the Watchmen
+  authors:
+  - Marcus Botacin
+  - "Paulo L\xEDcio De Geus"
+  - "Andr\xE9 gr\xE9gio"
+  publisher: ACM Computing Surveys
+  date: '2018-07-13'
+  link: https://doi.org/gt5kkq
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.19146/pibic-2016-51820
+  title: "Detec\xE7\xE3o de t\xE9cnicas de anti-forense em programas maliciosos"
+  authors:
+  - VITOR FALCAO DA ROCHA
+  - Paulo Licio De Geus
+  - "ANDR\xC9 GR\xC9GIO"
+  - MARCUS BOTACIN
+  publisher: "Anais do Congresso de Inicia\xE7\xE3o Cient\xEDfica da Unicamp"
+  date: '2016-10-22'
+  link: https://doi.org/gt5kkr
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3233/AO-160163
+  title: An ontology of suspicious software behavior
+  authors:
+  - "Andr\xE9 Gr\xE9gio"
+  - Rodrigo Bonacin
+  - Antonio Carlos de Marchi
+  - Olga Fernanda Nabuco
+  - "Paulo L\xEDcio de Geus"
+  publisher: Applied Ontology
+  date: '2016-03-22'
+  link: https://doi.org/gt5kks
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.14722/NDSS.2016.23384
+  title: 'Going Native: Using a Large-Scale Analysis of Android Apps to Create a Practical
+    Native-Code Sandboxing Policy'
+  authors:
+  - Vitor Afonso
+  - Antonio Bianchi
+  - Yanick Fratantonio
+  - Adam Doupe
+  - Mario Polino
+  - Paulo de Geus
+  - Christopher Kruegel
+  - Giovanni Vigna
+  publisher: Proceedings 2016 Network and Distributed System Security Symposium
+  date: '2016-01-01'
+  link: https://doi.org/gnrnt9
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.19146/pibic-2015-37604
+  title: MALICIOUS SOFTWARE IDENTIFICATION THROUGH OPERATING SYSTEM MONITORING
+  authors:
+  - Paulo Licio De Geus
+  - Marcus Felipe Botacin
+  publisher: "Anais do Congresso de Inicia\xE7\xE3o Cient\xEDfica da Unicamp"
+  date: '2015-11-20'
+  link: https://doi.org/gt5kkt
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11416-014-0226-7
+  title: Identifying Android malware using dynamically obtained features
+  authors:
+  - Vitor Monte Afonso
+  - Matheus Favero de Amorim
+  - "Andr\xE9 Ricardo Abed Gr\xE9gio"
+  - Glauco Barroso Junquera
+  - "Paulo L\xEDcio de Geus"
+  publisher: Journal of Computer Virology and Hacking Techniques
+  date: '2014-10-17'
+  link: https://doi.org/gnm78z
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2857218.2857254
+  title: Return on security investment for cloud computing
+  authors:
+  - Carlos Alberto da Silva
+  - Paulo Licio de Geus
+  publisher: Proceedings of the 7th International Conference on Management of computational
+    and collective intElligence in Digital EcoSystems
+  date: '2015-10-25'
+  link: https://doi.org/gt5kkv
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/SERVICES.2015.53
+  title: 'Security Testing Methodology for Evaluation of Web Services Robustness -
+    Case: XML Injection'
+  authors:
+  - Marcelo Invert Palma Salas
+  - Paulo Licio De Geus
+  - Eliane Martins
+  publisher: 2015 IEEE World Congress on Services
+  date: '2015-06-01'
+  link: https://doi.org/gt5kkw
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LATINCOM.2014.7041843
+  title: An approach to security-SLA in cloud computing environment
+  authors:
+  - Carlos Alberto da Silva
+  - Paulo Licio de Geus
+  publisher: 2014 IEEE Latin-America Conference on Communications (LATINCOM)
+  date: '2014-11-01'
+  link: https://doi.org/gt5kkx
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/WETICE.2014.72
+  title: 'Ontology for malware behavior: A core model proposal'
+  authors:
+  - Andre Gregio
+  - Rodrigo Bonacin
+  - Olga Nabuco
+  - Vitor Monte Afonso
+  - Paulo Licio De Geus
+  - Mario Jino
+  publisher: 2014 IEEE 23rd International WETICE Conference
+  date: '2014-06-01'
+  link: https://doi.org/gt5kkz
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/comjnl/bxv047
+  title: Toward a Taxonomy of Malware Behaviors
+  authors:
+  - "Andr\xE9 Ricardo Abed Gr\xE9gio"
+  - Vitor Monte Afonso
+  - "Dario Sim\xF5es Fernandes Filho"
+  - "Paulo L\xEDcio de Geus"
+  - Mario Jino
+  publisher: The Computer Journal
+  date: '2015-07-13'
+  link: https://doi.org/f7t9tz
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2480362.2480704
+  title: An empirical analysis of malicious internet banking software behavior
+  authors:
+  - "Andr\xE9 Ricardo A. Gr\xE9gio"
+  - "Dario Sim\xF5es Fernandes"
+  - Vitor Monte Afonso
+  - "Paulo L\xEDcio de Geus"
+  - Victor Furuse Martins
+  - Mario Jino
+  publisher: Proceedings of the 28th Annual ACM Symposium on Applied Computing
+  date: '2013-03-18'
+  link: https://doi.org/gt5kk2
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICC.2012.6364108
+  title: A hybrid framework to analyze web and OS malware
+  authors:
+  - Vitor M. Afonso
+  - Dario S. Fernandes Filho
+  - Andre R. A. Gregio
+  - Paulo L. de Geus
+  - Mario Jino
+  publisher: 2012 IEEE International Conference on Communications (ICC)
+  date: '2012-06-01'
+  link: https://doi.org/gt5kk3
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LatinCloud.2012.6508157
+  title: A methodology for management of cloud computing using security criteria
+  authors:
+  - Carlos Alberto da Silva
+  - Anderson Soares Ferreira
+  - Paulo Licio de Geus
+  publisher: 2012 IEEE Latin America Conference on Cloud Computing and Communications
+    (LatinCloud)
+  date: '2012-11-01'
+  link: https://doi.org/gt5kk4
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-31128-4_23
+  title: Interactive Analysis of Computer Scenarios through Parallel Coordinates Graphics
+  authors:
+  - Gabriel D. Cavalcante
+  - Sebastien Tricaud
+  - Cleber P. Souza
+  - "Paulo L\xEDcio de Geus"
+  publisher: "Computational Science and Its Applications \u2013 ICCSA 2012"
+  date: '2012-01-01'
+  link: https://doi.org/gt5kk5
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-31128-4_22
+  title: Interactive, Visual-Aided Tools to Analyze Malware Behavior
+  authors:
+  - "Andr\xE9 Ricardo Abed Gr\xE9gio"
+  - Alexandre Or Cansian Baruque
+  - Vitor Monte Afonso
+  - "Dario Sim\xF5es Fernandes Filho"
+  - "Paulo L\xEDcio de Geus"
+  - Mario Jino
+  - Rafael Duarte Coelho dos Santos
+  publisher: "Computational Science and Its Applications \u2013 ICCSA 2012"
+  date: '2012-01-01'
+  link: https://doi.org/gt5kk6
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-31128-4_20
+  title: Pinpointing Malicious Activities through Network and System-Level Malware
+    Execution Behavior
+  authors:
+  - "Andr\xE9 Ricardo Abed Gr\xE9gio"
+  - Vitor Monte Afonso
+  - "Dario Sim\xF5es Fernandes Filho"
+  - "Paulo L\xEDcio de Geus"
+  - Mario Jino
+  - Rafael Duarte Coelh dos Santos
+  publisher: "Computational Science and Its Applications \u2013 ICCSA 2012"
+  date: '2012-01-01'
+  link: https://doi.org/gt5kk7
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/spe.1014
+  title: "Scalable model\u2010based configuration management of security services\
+    \ in complex enterprise networks"
+  authors:
+  - "Jo\xE3o Porto de Albuquerque"
+  - Heiko Krumm
+  - "Paulo L\xEDcio de Geus"
+  - "Ren\xE9 Jeruschkat"
+  publisher: 'Software: Practice and Experience'
+  date: '2010-10-19'
+  link: https://doi.org/dr867n
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10207-010-0101-6
+  title: Formal validation of automated policy refinement in the management of network
+    security systems
+  authors:
+  - "Jo\xE3o Porto de Albuquerque"
+  - Heiko Krumm
+  - "Paulo L\xEDcio de Geus"
+  publisher: International Journal of Information Security
+  date: '2010-02-20'
+  link: https://doi.org/c9t5kw
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/1878450.1878465
+  title: Kolline
+  authors:
+  - Fernando Figueira Filho
+  - Gary M. Olson
+  - "Paulo L\xEDcio de Geus"
+  publisher: Proceedings of the 28th ACM International Conference on Design of Communication
+  date: '2010-09-27'
+  link: https://doi.org/fgw783
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/NOMS.2008.4575274
+  title: Model-based management of security services in complex network environments
+  authors:
+  - Joao Porto de Albuquerque
+  - Heiko Krumm
+  - Paulo Licio de Geus
+  publisher: NOMS 2008 - 2008 IEEE Network Operations and Management Symposium
+  date: '2008-01-01'
+  link: https://doi.org/dgzjw2
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CCNC.2007.191
+  title: A Policy-Based Framework for Interoperable Digital Content Management
+  authors:
+  - Fernando Marques Figueira Filho
+  - Joao Porto de Albuquerque
+  - Paulo Licio de Geus
+  - Heiko Krumm
+  publisher: 2007 4th IEEE Consumer Communications and Networking Conference
+  date: '2007-01-01'
+  link: https://doi.org/fv9jwt
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.17877/de290r-15888
+  title: Modellierung von Netzsicherheitsystemen umfangreicher vernetzter IT-Infrastrukturen
+  authors:
+  - Heiko Krumm
+  - Paulo Licio De Geus
+  - Joao Porto De Albuquerque
+  publisher: Lecture Notes in Informatics (LNI) Proceedings;P-68
+  date: '2005-09-01'
+  link: https://doi.org/gt5kk8
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/POLICY.2005.24
+  title: Policy Modeling and Refinement for Network Security Systems
+  authors:
+  - J.P. de Albuquerque
+  - H. Krumm
+  - P.L. de Geus
+  publisher: Sixth IEEE International Workshop on Policies for Distributed Systems
+    and Networks (POLICY'05)
+  date: ''
+  link: https://doi.org/bvzwtn
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICONIP.2002.1202866
+  title: 'Adenoids: a hybrid IDS based on the immune system'
+  authors:
+  - F.S. Paula
+  - M.A. Reis
+  - D.A.M. Fernandes
+  - P.L. Geus
+  publisher: Proceedings of the 9th International Conference on Neural Information
+    Processing, 2002. ICONIP '02.
+  date: ''
+  link: https://doi.org/c2kqt5
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.46586/tches.v2023.i4.32-57
+  title: 'BASALISC: Programmable Hardware Accelerator for BGV Fully Homomorphic Encryption'
+  authors:
+  - Robin Geelen
+  - Michiel Van Beirendonck
+  - Hilder V. L. Pereira
+  - Brian Huffman
+  - Tynan McAuley
+  - Ben Selfridge
+  - Daniel Wagner
+  - Georgios Dimou
+  - Ingrid Verbauwhede
+  - Frederik Vercauteren
+  - David W. Archer
+  publisher: IACR Transactions on Cryptographic Hardware and Embedded Systems
+  date: '2023-08-31'
+  link: https://doi.org/gs4ptr
+  type: paper
+  image: images/basalisc-diagram.png
+  buttons:
+  - type: pdf
+    text: PDF (eprint)
+    link: https://eprint.iacr.org/2022/657.pdf
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.5220/0006187703620371
+  title: Non-interactive Privacy-preserving k-NN Classifier
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Hilder V. L. Pereira
+  - Diego F. Aranha
+  publisher: Proceedings of the 3rd International Conference on Information Systems
+    Security and Privacy
+  date: '2017-01-01'
+  link: https://doi.org/gt5bdk
+  image: https://upload.wikimedia.org/wikipedia/commons/e/e7/KnnClassification.svg
   plugin: sources.py
   file: sources.yaml

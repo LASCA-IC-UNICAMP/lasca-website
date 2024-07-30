@@ -1,47 +1,18 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Post-quantum signature schemes
+  subtitle: New NIST standardization process
+  group: ongoing
+  image: images/post-quantum-crypto-key.jpg
+  description: Project in collaboration with [TII](https://www.tii.ae/cryptography){:target="_blank"}.
   tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+    - PQC
+    - Digital Signature
+    - cryptography
+- title: Tor Protection against malicious traffic
+  subtitle: 2015 - 2018
+  group: past
+  image: images/tor.jpg
+  description: 'This project proposes to design and implement a solutions to protect the Tor network against malicious code and malicious traffic, using forensic techniques and artificial intelligence. PIs: Prof. Paulo Lício de Geus and Marcelo Invert Palma Salas.'
   tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - tor
+    - network
+    - security

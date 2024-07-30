@@ -7,23 +7,38 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+TODO: add text about team
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+# Faculty
+
+{% include list.html data="members" component="portrait" filters="role: faculty" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+TODO: Add more text if we want
 
 {% include section.html %}
 
+# Post-docs
+
+{% include list.html data="members" component="portrait" filters="role: postdoc" %}
+
+# PhD candidates
+
+{% include list.html data="members" component="portrait" filters="role: phd" %}
+
+# MSc students
+
+{% include list.html data="members" component="portrait" filters="role: msc" %}
+
+# Undergraduate students
+
+{% include list.html data="members" component="portrait" filters="role: bsc" %}
+
+
+<!--
 {% capture content %}
 
 {% include figure.html image="images/photo.jpg" %}
@@ -33,3 +48,4 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+-->

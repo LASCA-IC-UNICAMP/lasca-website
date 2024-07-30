@@ -1,9 +1,15 @@
 ---
 ---
 
-# LASCA-IC-UNICAMPDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Laboratory of Security and Cryptography (LASCA)
 
+Starting from 2012, LCA (Laboratory of Applied Cryptography) and LAS (Laboratory of Systems Administration and Security) merged into the 
+Laboratory of Security and Cryptography (LASCA), at the [Institute of Computing (IC)](https://ic.unicamp.br/) of the 
+[University of Campinas (UNICAMP)](https://www.unicamp.br/). 
+Research topics include, among others, malware behavior analysis, cloud security, vulnerability analysis, 
+efficient and secure implementation of cryptographic applications, electronic voting, and computing on encrypted data.
 
+{% include figure.html image="images/unicamp.png" %}
 
 {% include section.html %}
 
@@ -11,7 +17,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+TODO: add text about our papers, software, patents...
 
 {%
   include button.html
@@ -26,7 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.png"
   link="research"
   title="Our Research"
   text=text
@@ -34,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+TODO: add text about research projects on cryptography and security
 
 {%
   include button.html
@@ -49,7 +55,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -59,7 +65,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+TODO: add text about our team
 
 {%
   include button.html
@@ -74,7 +80,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/people.jpg"
   link="team"
   title="Our Team"
   text=text
