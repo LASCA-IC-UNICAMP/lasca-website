@@ -9,7 +9,7 @@ Laboratory of Security and Cryptography (LASCA), at the [Institute of Computing 
 Research topics include, among others, malware behavior analysis, cloud security, vulnerability analysis, 
 efficient and secure implementation of cryptographic applications, electronic voting, and computing on encrypted data.
 
-{% include figure.html image="images/ciclo-basico-aereo.png" %}
+{% include figure.html image="images/ciclo-basico-aereo.jpg" %}
 
 {% include section.html %}
 
