@@ -1,5 +1,5 @@
 
-# LASCA-IC-UNICAMPDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# LASCA: Laboratory of Security and Cryptography 
 
 Visit **[lasca-ic-unicamp.github.io/lasca-website](https://lasca-ic-unicamp.github.io/lasca-website)** 🚀
 
