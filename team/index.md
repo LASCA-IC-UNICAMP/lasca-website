@@ -13,14 +13,6 @@ nav:
 
 {% include list.html data="members" component="portrait" filters="role: faculty" %}
 
-<!--
-{% include section.html background="images/background.jpg" dark=true %}
-
-TODO: Add more text if we want
-
-{% include section.html %}
--->
-
 # Post-docs
 
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}

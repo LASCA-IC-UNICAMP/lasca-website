@@ -7,7 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-TODO: add *general* information about our research projects
+We are currently involved in a variety of projects covering aspects of malware, mobile systems, privacy, security, and cryptography, in particular, post-quantum cryptography and computation over encrypted data. 
+
+We have a long tradition of collaborations with the industry, for instance, with projects together with Intel and Samsung. If you are interested in collaborating with us, please, reach us out!
+
+
 
 {% include tags.html tags="PQC, signature, cryptography" %}
 
