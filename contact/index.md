@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-# Address:
+**Address:**
 
 Av. Albert Einstein, 1251, Room 84
 
