@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-**TODO:** add text
+List of papers published by LASCA members
 
 
 {% include section.html %}
