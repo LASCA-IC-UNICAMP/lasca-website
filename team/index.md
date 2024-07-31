@@ -7,19 +7,19 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-TODO: add text about team
-
 {% include section.html %}
 
 # Faculty
 
 {% include list.html data="members" component="portrait" filters="role: faculty" %}
 
+<!--
 {% include section.html background="images/background.jpg" dark=true %}
 
 TODO: Add more text if we want
 
 {% include section.html %}
+-->
 
 # Post-docs
 
