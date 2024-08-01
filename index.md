@@ -54,7 +54,7 @@ We produce software, patents, and papers published in renowed international conf
 
 {%
   include feature.html
-  image="images/projects.png"
+  image="images/projects.jpg"
   link="projects"
   title="Our Projects"
   flip=true
