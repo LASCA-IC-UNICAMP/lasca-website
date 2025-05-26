@@ -1,5 +1,85 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.5753/sbseg.2022.224450
+  title: Evaluation of CRYSTALS-Kyber and Saber on the ARMv8 architecture
+  authors:
+  - Jheyne N. Ortiz
+  - "F\xE9lix Carvalho Rodrigues"
+  - "D\xE9cio Gazzoni Filho"
+  - Caio Teixeira
+  - "Julio L\xF3pez"
+  - Ricardo Dahab
+  publisher: "Anais do XXII Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\xE3\
+    o e de Sistemas Computacionais (SBSeg 2022)"
+  date: '2022-09-12'
+  link: https://doi.org/gt5bcd
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: doi:10.5753/sbseg.2022.224951
+  title: Evaluation of modular multiplication techniques for Supersingular Isogeny
+    Schemes on ARMv8 cores
+  authors:
+  - Vitor Satoru Machi Matsumine
+  - "F\xE9lix Carvalho Rodrigues"
+  - "D\xE9cio Gazzoni Filho"
+  - Caio Teixeira
+  - "Julio L\xF3pez"
+  - Ricardo Dahab
+  publisher: "Anais do XXII Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\xE3\
+    o e de Sistemas Computacionais (SBSeg 2022)"
+  date: '2022-09-12'
+  link: https://doi.org/gt5bcf
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: isbn:978-3-030-40921-0
+  title: "Lecture notes in computer science. 11975: Information Security and Cryptology\
+    \ \u2013 ICISC 2019: 22nd International Conference, Seoul, South Korea, December\
+    \ 4\u20136, 2019, Revised Selected Papers / Jae Hong Seo (Ed.)"
+  authors: []
+  publisher: ''
+  date: '1197-01-01'
+  link: ''
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.1016/j.entcs.2019.04.003
+  title: On Fair Cost Facility Location Games with Non-singleton Players
+  authors:
+  - "F\xE9lix Carvalho Rodrigues"
+  - Eduardo C. Xavier
+  - "Guido Sch\xE4fer"
+  publisher: Electronic Notes in Theoretical Computer Science
+  date: '2019-04-01'
+  link: https://doi.org/gt5bfh
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.1016/j.ipl.2016.09.001
+  title: Non-cooperative capacitated facility location games
+  authors:
+  - "F\xE9lix Carvalho Rodrigues"
+  - Eduardo Candido Xavier
+  publisher: Information Processing Letters
+  date: '2017-01-01'
+  link: https://doi.org/gt5bfj
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.4230/OASIcs.ATMOS.2011.122
+  title: On the Smoothed Price of Anarchy of the Traffic Assignment Problem
+  authors:
+  - Luciana Buriol
+  - Marcus Ritt
+  - Felix Rodrigues
+  - "Guido Sch\xE4fer"
+  publisher: "Schloss Dagstuhl \u2013 Leibniz-Zentrum f\xFCr Informatik"
+  date: '2011-01-01'
+  link: https://doi.org/gt5bfk
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
 - id: doi:10.62056/anxrxrxqi
   title: Towards Practical Transciphering for FHE with Setup Independent of the Plaintext
     Space
@@ -33,7 +113,7 @@
   - Axel Mertens
   - Jeongeun Park
   - Hilder V. L. Pereira
-  publisher: Information Security and Privacy
+  publisher: Lecture Notes in Computer Science
   date: '2024-01-01'
   link: https://doi.org/gt5bcj
   orcid: 0000-0003-1303-3760
@@ -45,7 +125,7 @@
   - "Antonio Guimar\xE3es"
   - Hilder V. L. Pereira
   - Barry van Leeuwen
-  publisher: "Advances in Cryptology \u2013 ASIACRYPT 2023"
+  publisher: Lecture Notes in Computer Science
   date: '2023-01-01'
   link: https://doi.org/gt5bck
   orcid: 0000-0003-1303-3760
@@ -59,7 +139,7 @@
   - Jeongeun Park
   - Hilder V. L. Pereira
   - Nigel P. Smart
-  publisher: "Advances in Cryptology \u2013 ASIACRYPT 2022"
+  publisher: Lecture Notes in Computer Science
   date: '2022-01-01'
   link: https://doi.org/gt5bcm
   orcid: 0000-0003-1303-3760
@@ -70,7 +150,7 @@
     One Second
   authors:
   - Hilder Vitor Lima Pereira
-  publisher: "Public-Key Cryptography \u2013 PKC 2021"
+  publisher: Lecture Notes in Computer Science
   date: '2021-01-01'
   link: https://doi.org/gt5bcn
   orcid: 0000-0003-1303-3760
@@ -109,39 +189,6 @@
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.5753/sbseg.2022.224450
-  title: Evaluation of CRYSTALS-Kyber and Saber on the ARMv8 architecture
-  authors:
-  - Jheyne N. Ortiz
-  - "F\xE9lix Carvalho Rodrigues"
-  - "D\xE9cio Gazzoni Filho"
-  - Caio Teixeira
-  - "Julio L\xF3pez"
-  - Ricardo Dahab
-  publisher: "Anais do XXII Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\xE3\
-    o e de Sistemas Computacionais (SBSeg 2022)"
-  date: '2022-09-12'
-  link: https://doi.org/gt5bcd
-  orcid: 0000-0002-2776-5105
-  plugin: orcid.py
-  file: orcid-postdoc.yaml
-- id: doi:10.5753/sbseg.2022.224951
-  title: Evaluation of modular multiplication techniques for Supersingular Isogeny
-    Schemes on ARMv8 cores
-  authors:
-  - Vitor Satoru Machi Matsumine
-  - "F\xE9lix Carvalho Rodrigues"
-  - "D\xE9cio Gazzoni Filho"
-  - Caio Teixeira
-  - "Julio L\xF3pez"
-  - Ricardo Dahab
-  publisher: "Anais do XXII Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\xE3\
-    o e de Sistemas Computacionais (SBSeg 2022)"
-  date: '2022-09-12'
-  link: https://doi.org/gt5bcf
-  orcid: 0000-0002-2776-5105
-  plugin: orcid.py
-  file: orcid-postdoc.yaml
 - id: doi:10.3390/e23091108
   title: 'The Ring-LWE Problem in Lattice-Based Cryptography: The Case of Twisted
     Embeddings'
@@ -175,7 +222,7 @@
   - "Julio L\xF3pez"
   - Ricardo Dahab
   publisher: Advances in Mathematics of Communications
-  date: '2019-01-01'
+  date: '2020-01-01'
   link: https://doi.org/gt5bcs
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
@@ -238,7 +285,7 @@
   - Giuliano Sider
   - Ricardo Dahab
   - "Julio L\xF3pez"
-  publisher: "Progress in Cryptology \u2013 LATINCRYPT 2019"
+  publisher: Lecture Notes in Computer Science
   date: '2019-01-01'
   link: https://doi.org/gt5bcw
   orcid: 0000-0002-7002-875X
@@ -360,7 +407,7 @@
   authors:
   - Roberto Gallo
   - Ricardo Dahab
-  publisher: Information Security Education Across the Curriculum
+  publisher: IFIP Advances in Information and Communication Technology
   date: '2015-01-01'
   link: https://doi.org/gt5bc6
   orcid: 0000-0002-7002-875X
@@ -372,7 +419,7 @@
   - Erick Nascimento
   - "Julio L\xF3pez"
   - Ricardo Dahab
-  publisher: Security, Privacy, and Applied Cryptography Engineering
+  publisher: Lecture Notes in Computer Science
   date: '2015-01-01'
   link: https://doi.org/gt5bc7
   orcid: 0000-0002-7002-875X
@@ -455,7 +502,7 @@
   - "Conrado P. L. Gouv\xEAa"
   - "Julio L\xF3pez"
   - Ricardo Dahab
-  publisher: Security Engineering and Intelligence Informatics
+  publisher: Lecture Notes in Computer Science
   date: '2013-01-01'
   link: https://doi.org/gt5bdd
   orcid: 0000-0002-7002-875X
@@ -549,7 +596,7 @@
   - Roberto Gallo
   - Henrique Kawakami
   - Ricardo Dahab
-  publisher: Public Key Infrastructures, Services and Applications
+  publisher: Lecture Notes in Computer Science
   date: '2010-01-01'
   link: https://doi.org/ftjrjm
   orcid: 0000-0002-7002-875X
@@ -655,7 +702,7 @@
   - Augusto Jun Devegili
   - Michael Scott
   - Ricardo Dahab
-  publisher: "Pairing-Based Cryptography \u2013 Pairing 2007"
+  publisher: Lecture Notes in Computer Science
   date: ''
   link: https://doi.org/dv3r86
   orcid: 0000-0002-7002-875X
@@ -841,6 +888,17 @@
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.5753/jisa.2024.3907
+  title: Deep Learning Applied to Imbalanced Malware Datasets Classification
+  authors:
+  - Marcelo Palma Salas
+  - "Paulo L\xEDcio De Geus"
+  publisher: Journal of Internet Services and Applications
+  date: '2024-09-16'
+  link: https://doi.org/g59b5v
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3615366.3615374
   title: Enhancing Malware Family Classification in the Microsoft Challenge Dataset
     via Transfer Learning
@@ -975,7 +1033,7 @@
   - Daniela Oliveira
   - "Andr\xE9 Gr\xE9gio"
   - "Paulo L\xEDcio de Geus"
-  publisher: Developments in Language Theory
+  publisher: Lecture Notes in Computer Science
   date: '2018-01-01'
   link: https://doi.org/gt5kkm
   orcid: 0000-0002-6540-8686
@@ -1221,7 +1279,7 @@
   - Sebastien Tricaud
   - Cleber P. Souza
   - "Paulo L\xEDcio de Geus"
-  publisher: "Computational Science and Its Applications \u2013 ICCSA 2012"
+  publisher: Lecture Notes in Computer Science
   date: '2012-01-01'
   link: https://doi.org/gt5kk5
   orcid: 0000-0002-6540-8686
@@ -1237,7 +1295,7 @@
   - "Paulo L\xEDcio de Geus"
   - Mario Jino
   - Rafael Duarte Coelho dos Santos
-  publisher: "Computational Science and Its Applications \u2013 ICCSA 2012"
+  publisher: Lecture Notes in Computer Science
   date: '2012-01-01'
   link: https://doi.org/gt5kk6
   orcid: 0000-0002-6540-8686
@@ -1253,7 +1311,7 @@
   - "Paulo L\xEDcio de Geus"
   - Mario Jino
   - Rafael Duarte Coelh dos Santos
-  publisher: "Computational Science and Its Applications \u2013 ICCSA 2012"
+  publisher: Lecture Notes in Computer Science
   date: '2012-01-01'
   link: https://doi.org/gt5kk7
   orcid: 0000-0002-6540-8686
@@ -1402,53 +1460,6 @@
   orcid: 0000-0002-6001-2172
   plugin: orcid.py
   file: orcid-phd-candidate.yaml
-- id: isbn:978-3-030-40921-0
-  title: "Lecture notes in computer science. 11975: Information Security and Cryptology\
-    \ \u2013 ICISC 2019: 22nd International Conference, Seoul, South Korea, December\
-    \ 4\u20136, 2019, Revised Selected Papers / Jae Hong Seo (Ed.)"
-  authors: []
-  publisher: Springer
-  date: '1197-01-01'
-  link: ''
-  orcid: 0000-0002-2776-5105
-  plugin: orcid.py
-  file: orcid-postdoc.yaml
-- id: doi:10.1016/j.entcs.2019.04.003
-  title: On Fair Cost Facility Location Games with Non-singleton Players
-  authors:
-  - "F\xE9lix Carvalho Rodrigues"
-  - Eduardo C. Xavier
-  - "Guido Sch\xE4fer"
-  publisher: Electronic Notes in Theoretical Computer Science
-  date: '2019-04-01'
-  link: https://doi.org/gt5bfh
-  orcid: 0000-0002-2776-5105
-  plugin: orcid.py
-  file: orcid-postdoc.yaml
-- id: doi:10.1016/j.ipl.2016.09.001
-  title: Non-cooperative capacitated facility location games
-  authors:
-  - "F\xE9lix Carvalho Rodrigues"
-  - Eduardo Candido Xavier
-  publisher: Information Processing Letters
-  date: '2017-01-01'
-  link: https://doi.org/gt5bfj
-  orcid: 0000-0002-2776-5105
-  plugin: orcid.py
-  file: orcid-postdoc.yaml
-- id: doi:10.4230/OASIcs.ATMOS.2011.122
-  title: On the Smoothed Price of Anarchy of the Traffic Assignment Problem
-  authors:
-  - Luciana Buriol
-  - Marcus Ritt
-  - Felix Rodrigues
-  - "Guido Sch\xE4fer"
-  publisher: "Schloss Dagstuhl \u2013 Leibniz-Zentrum f\xFCr Informatik"
-  date: '2011-01-01'
-  link: https://doi.org/gt5bfk
-  orcid: 0000-0002-2776-5105
-  plugin: orcid.py
-  file: orcid-postdoc.yaml
 - id: doi:10.46586/tches.v2023.i4.32-57
   title: 'BASALISC: Programmable Hardware Accelerator for BGV Fully Homomorphic Encryption'
   authors:
