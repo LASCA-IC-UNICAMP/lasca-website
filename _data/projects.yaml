@@ -1,3 +1,12 @@
+- title: Fully homomorphic encryption and computing on encrypted data
+  subtitle: Homomorphic encryption from theory to applications
+  group: ongoing
+  image: images/fhe.png
+  description: Project funded by [FAPESP](https://fapesp.br/){:target="_blank"} via Young Investigators Grants (Jovem Pesquisador).
+  tags:
+    - FHE
+    - homomorphic encryption
+    - cryptography
 - title: Post-quantum signature schemes
   subtitle: New NIST standardization process
   group: ongoing
