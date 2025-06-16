@@ -1,5 +1,85 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.5753/sbseg.2022.224450
+  title: Evaluation of CRYSTALS-Kyber and Saber on the ARMv8 architecture
+  authors:
+  - Jheyne N. Ortiz
+  - "F\xE9lix Carvalho Rodrigues"
+  - "D\xE9cio Gazzoni Filho"
+  - Caio Teixeira
+  - "Julio L\xF3pez"
+  - Ricardo Dahab
+  publisher: "Anais do XXII Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\xE3\
+    o e de Sistemas Computacionais (SBSeg 2022)"
+  date: '2022-09-12'
+  link: https://doi.org/gt5bcd
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5753/sbseg.2022.224951
+  title: Evaluation of modular multiplication techniques for Supersingular Isogeny
+    Schemes on ARMv8 cores
+  authors:
+  - Vitor Satoru Machi Matsumine
+  - "F\xE9lix Carvalho Rodrigues"
+  - "D\xE9cio Gazzoni Filho"
+  - Caio Teixeira
+  - "Julio L\xF3pez"
+  - Ricardo Dahab
+  publisher: "Anais do XXII Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\xE3\
+    o e de Sistemas Computacionais (SBSeg 2022)"
+  date: '2022-09-12'
+  link: https://doi.org/gt5bcf
+  orcid: 0000-0002-7002-875X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: isbn:978-3-030-40921-0
+  title: "Lecture notes in computer science. 11975: Information Security and Cryptology\
+    \ \u2013 ICISC 2019: 22nd International Conference, Seoul, South Korea, December\
+    \ 4\u20136, 2019, Revised Selected Papers / Jae Hong Seo (Ed.)"
+  authors: []
+  publisher: ''
+  date: '1197-01-01'
+  link: ''
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.1016/j.entcs.2019.04.003
+  title: On Fair Cost Facility Location Games with Non-singleton Players
+  authors:
+  - "F\xE9lix Carvalho Rodrigues"
+  - Eduardo C. Xavier
+  - "Guido Sch\xE4fer"
+  publisher: Electronic Notes in Theoretical Computer Science
+  date: '2019-04-01'
+  link: https://doi.org/gt5bfh
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.1016/j.ipl.2016.09.001
+  title: Non-cooperative capacitated facility location games
+  authors:
+  - "F\xE9lix Carvalho Rodrigues"
+  - Eduardo Candido Xavier
+  publisher: Information Processing Letters
+  date: '2017-01-01'
+  link: https://doi.org/gt5bfj
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.4230/OASIcs.ATMOS.2011.122
+  title: On the Smoothed Price of Anarchy of the Traffic Assignment Problem
+  authors:
+  - Luciana Buriol
+  - Marcus Ritt
+  - Felix Rodrigues
+  - "Guido Sch\xE4fer"
+  publisher: "Schloss Dagstuhl \u2013 Leibniz-Zentrum f\xFCr Informatik"
+  date: '2011-01-01'
+  link: https://doi.org/gt5bfk
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
 - id: doi:10.46586/tches.v2025.i1.497-522
   title: Optimized One-Dimensional SQIsign Verification on Intel and Cortex-M4
   authors:
@@ -100,39 +180,6 @@
   orcid: 0000-0002-6001-2172
   plugin: orcid.py
   file: orcid-phd-candidate.yaml
-- id: doi:10.5753/sbseg.2022.224450
-  title: Evaluation of CRYSTALS-Kyber and Saber on the ARMv8 architecture
-  authors:
-  - Jheyne N. Ortiz
-  - "F\xE9lix Carvalho Rodrigues"
-  - "D\xE9cio Gazzoni Filho"
-  - Caio Teixeira
-  - "Julio L\xF3pez"
-  - Ricardo Dahab
-  publisher: "Anais do XXII Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\xE3\
-    o e de Sistemas Computacionais (SBSeg 2022)"
-  date: '2022-09-12'
-  link: https://doi.org/gt5bcd
-  orcid: 0000-0002-2776-5105
-  plugin: orcid.py
-  file: orcid-postdoc.yaml
-- id: doi:10.5753/sbseg.2022.224951
-  title: Evaluation of modular multiplication techniques for Supersingular Isogeny
-    Schemes on ARMv8 cores
-  authors:
-  - Vitor Satoru Machi Matsumine
-  - "F\xE9lix Carvalho Rodrigues"
-  - "D\xE9cio Gazzoni Filho"
-  - Caio Teixeira
-  - "Julio L\xF3pez"
-  - Ricardo Dahab
-  publisher: "Anais do XXII Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\xE3\
-    o e de Sistemas Computacionais (SBSeg 2022)"
-  date: '2022-09-12'
-  link: https://doi.org/gt5bcf
-  orcid: 0000-0002-2776-5105
-  plugin: orcid.py
-  file: orcid-postdoc.yaml
 - id: doi:10.62056/anxrxrxqi
   title: Towards Practical Transciphering for FHE with Setup Independent of the Plaintext
     Space
@@ -1473,53 +1520,6 @@
   orcid: 0000-0002-6540-8686
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:978-3-030-40921-0
-  title: "Lecture notes in computer science. 11975: Information Security and Cryptology\
-    \ \u2013 ICISC 2019: 22nd International Conference, Seoul, South Korea, December\
-    \ 4\u20136, 2019, Revised Selected Papers / Jae Hong Seo (Ed.)"
-  authors: []
-  publisher: ''
-  date: '1197-01-01'
-  link: ''
-  orcid: 0000-0002-2776-5105
-  plugin: orcid.py
-  file: orcid-postdoc.yaml
-- id: doi:10.1016/j.entcs.2019.04.003
-  title: On Fair Cost Facility Location Games with Non-singleton Players
-  authors:
-  - "F\xE9lix Carvalho Rodrigues"
-  - Eduardo C. Xavier
-  - "Guido Sch\xE4fer"
-  publisher: Electronic Notes in Theoretical Computer Science
-  date: '2019-04-01'
-  link: https://doi.org/gt5bfh
-  orcid: 0000-0002-2776-5105
-  plugin: orcid.py
-  file: orcid-postdoc.yaml
-- id: doi:10.1016/j.ipl.2016.09.001
-  title: Non-cooperative capacitated facility location games
-  authors:
-  - "F\xE9lix Carvalho Rodrigues"
-  - Eduardo Candido Xavier
-  publisher: Information Processing Letters
-  date: '2017-01-01'
-  link: https://doi.org/gt5bfj
-  orcid: 0000-0002-2776-5105
-  plugin: orcid.py
-  file: orcid-postdoc.yaml
-- id: doi:10.4230/OASIcs.ATMOS.2011.122
-  title: On the Smoothed Price of Anarchy of the Traffic Assignment Problem
-  authors:
-  - Luciana Buriol
-  - Marcus Ritt
-  - Felix Rodrigues
-  - "Guido Sch\xE4fer"
-  publisher: "Schloss Dagstuhl \u2013 Leibniz-Zentrum f\xFCr Informatik"
-  date: '2011-01-01'
-  link: https://doi.org/gt5bfk
-  orcid: 0000-0002-2776-5105
-  plugin: orcid.py
-  file: orcid-postdoc.yaml
 - id: doi:10.46586/tches.v2023.i4.32-57
   title: 'BASALISC: Programmable Hardware Accelerator for BGV Fully Homomorphic Encryption'
   authors:
