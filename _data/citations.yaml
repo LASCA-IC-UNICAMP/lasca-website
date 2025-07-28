@@ -341,9 +341,9 @@
   publisher: Lecture Notes in Computer Science
   date: '2019-01-01'
   link: https://doi.org/gt5bcw
-  orcid: 0000-0002-7002-875X
+  orcid: 0000-0002-2776-5105
   plugin: orcid.py
-  file: orcid.yaml
+  file: orcid-postdoc.yaml
 - id: doi:10.1109/tr.2019.2937214
   title: Understanding How to Use Static Analysis Tools for Detecting Cryptography
     Misuse in Software
@@ -1473,14 +1473,31 @@
   orcid: 0000-0002-6540-8686
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:978-3-030-40921-0
-  title: "Lecture notes in computer science. 11975: Information Security and Cryptology\
-    \ \u2013 ICISC 2019: 22nd International Conference, Seoul, South Korea, December\
-    \ 4\u20136, 2019, Revised Selected Papers / Jae Hong Seo (Ed.)"
-  authors: []
-  publisher: ''
-  date: '1197-01-01'
-  link: ''
+- id: doi:10.5753/sbseg.2023.233113
+  title: 'A Minimal White-Box Dedicated Cipher Proposal Using Incompressible Lookup
+    Tables: Space-Hard AES'
+  authors:
+  - "F\xE9lix Carvalho Rodrigues"
+  - Ricardo Dahab
+  - "Julio L\xF3pez"
+  - Hayato Fujii
+  - Ana Clara Zoppi Serpa
+  publisher: "Anais do XXIII Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\
+    \xE3o e de Sistemas Computacionais (SBSeg 2023)"
+  date: '2023-09-18'
+  link: https://doi.org/g9s4gv
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.1007/978-3-030-40921-0_5
+  title: Fast AES Implementation Using ARMv8 ASIMD Without Cryptography Extension
+  authors:
+  - Hayato Fujii
+  - "F\xE9lix Carvalho Rodrigues"
+  - "Julio L\xF3pez"
+  publisher: Lecture Notes in Computer Science
+  date: '2020-01-01'
+  link: https://doi.org/g9s4gw
   orcid: 0000-0002-2776-5105
   plugin: orcid.py
   file: orcid-postdoc.yaml
@@ -1493,6 +1510,49 @@
   publisher: Electronic Notes in Theoretical Computer Science
   date: '2019-04-01'
   link: https://doi.org/gt5bfh
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.5753/sbseg.2019.13986
+  title: A Secure White Box Implementation of AES Against First Order DCA
+  authors:
+  - Ana Clara Serpa
+  - Giuliano Sider
+  - Hayato Fujii
+  - "F\xE9lix Rodrigues"
+  - Ricardo Dahab
+  - "Julio L\xF3pez"
+  publisher: "Anais do XIX Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\xE3\
+    o e de Sistemas Computacionais (SBSeg 2019)"
+  date: '2019-09-02'
+  link: https://doi.org/g9s4gx
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.5753/sbseg.2018.4264
+  title: White Box Implementations of Dedicated Ciphers on the ARM NEON Architecture
+  authors:
+  - Ricardo Dahab
+  - "Julio L\xF3pez"
+  - "F\xE9lix Carvalho Rodrigues"
+  - Hayato Fujii
+  - Giuliano Sider
+  - Ana Clara Serpa
+  publisher: "Anais do XVIII Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\
+    \xE3o e de Sistemas Computacionais (SBSeg 2018)"
+  date: '2018-10-25'
+  link: https://doi.org/g9s4gz
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.22456/2175-2745.71429
+  title: 'Non-Cooperative Facility Location Games: a Survey'
+  authors:
+  - "F\xE9lix Carvalho Rodrigues"
+  - Eduardo Xavier
+  publisher: "Revista de Inform\xE1tica Te\xF3rica e Aplicada"
+  date: '2017-08-02'
+  link: https://doi.org/g9s4g2
   orcid: 0000-0002-2776-5105
   plugin: orcid.py
   file: orcid-postdoc.yaml
