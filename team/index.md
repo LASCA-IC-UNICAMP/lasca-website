@@ -31,7 +31,7 @@ nav:
 
 # Former faculty members
 
-{% include list.html data="members" component="portrait" filters="role: former faculty" %}
+{% include list.html data="members" component="portrait" filters="role: former" %}
 
 <!--
 {% capture content %}

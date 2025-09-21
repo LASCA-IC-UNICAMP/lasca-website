@@ -1,7 +1,7 @@
 ---
 name: Paulo Lício de Geus
 image: team/photos/paulo-licio.jpg
-role: former faculty
+role: former
 description: Former Professor
 aliases:
   - Paulo Lício de Geus
