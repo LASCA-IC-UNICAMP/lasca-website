@@ -1,8 +1,8 @@
 ---
 name: Paulo Lício de Geus
 image: team/photos/paulo-licio.jpg
-role: faculty
-description: Professor
+role: former faculty
+description: Former Professor
 aliases:
   - Paulo Lício de Geus
   - Paulo L. De Geus
@@ -12,4 +12,3 @@ links:
   email:  pgeus@unicamp.br
 ---
 
-TODO: add short bio

@@ -29,6 +29,9 @@ nav:
 
 {% include list.html data="members" component="portrait" filters="role: bsc" %}
 
+# Former faculty members
+
+{% include list.html data="members" component="portrait" filters="role: former faculty" %}
 
 <!--
 {% capture content %}
