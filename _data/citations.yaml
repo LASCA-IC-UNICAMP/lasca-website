@@ -1,5 +1,138 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.46586/tches.v2025.i1.497-522
+  title: Optimized One-Dimensional SQIsign Verification on Intel and Cortex-M4
+  authors:
+  - Marius A. Aardal
+  - Gora Adj
+  - Arwa Alblooshi
+  - Diego F. Aranha
+  - "Isaac A. Canales-Mart\xEDnez"
+  - "Jorge Ch\xE1vez-Saab"
+  - "D\xE9cio Luiz Gazzoni Filho"
+  - Krijn Reijnders
+  - "Francisco Rodr\xEDguez-Henr\xEDquez"
+  publisher: IACR Transactions on Cryptographic Hardware and Embedded Systems
+  date: '2024-12-09'
+  link: https://doi.org/g9mt89
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: doi:10.1007/978-3-031-64381-1_3
+  title: "Quasi-optimal Permutation Ranking and\_Applications to\_PERK"
+  authors:
+  - Slim Bettaieb
+  - Alessandro Budroni
+  - Marco Palumbi
+  - "D\xE9cio Luiz Gazzoni Filho"
+  publisher: Lecture Notes in Computer Science
+  date: '2024-01-01'
+  link: https://doi.org/g9mt9b
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: doi:10.62056/a6n59qgxq
+  title: Efficient isochronous fixed-weight sampling with applications to NTRU
+  authors:
+  - "D\xE9cio Filho"
+  - "Tom\xE1s Silva"
+  - "Julio L\xF3pez"
+  publisher: IACR Communications in Cryptology
+  date: '2024-07-08'
+  link: https://doi.org/gt5bb9
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: doi:10.1109/arith61463.2024.00012
+  title: 'PQC-AMX: Accelerating Saber and FrodoKEM on the Apple M1 and M3 SoCs'
+  authors:
+  - "D\xE9cio Luiz Gazzoni Filho"
+  - "Guilherme Brand\xE3o"
+  - Gora Adj
+  - Arwa Alblooshi
+  - "Isaac A. Canales-Mart\xEDnez"
+  - "Jorge Ch\xE1vez-Saab"
+  - "Julio L\xF3pez"
+  publisher: 2024 IEEE 31st Symposium on Computer Arithmetic (ARITH)
+  date: '2024-06-10'
+  link: https://doi.org/g9mt9c
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: doi:10.62056/a3txommol
+  title: Fast polynomial multiplication using matrix multiplication accelerators with
+    applications to NTRU on Apple M1/M3 SoCs
+  authors:
+  - "D\xE9cio Filho"
+  - "Guilherme Brand\xE3o"
+  - "Julio L\xF3pez"
+  publisher: IACR Communications in Cryptology
+  date: '2024-04-09'
+  link: https://doi.org/gt5bcb
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: doi:10.5753/sbseg.2023.233093
+  title: "Improving FALCON\u2019s Key Generation on ARMv8-A Platforms"
+  authors:
+  - Caio Teixeira
+  - "D\xE9cio Luiz Gazzoni Filho"
+  - "Julio C\xE9sar L\xF3pez Hern\xE1ndez"
+  publisher: "Anais do XXIII Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\
+    \xE3o e de Sistemas Computacionais (SBSeg 2023)"
+  date: '2023-09-18'
+  link: https://doi.org/g9mt9d
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: doi:10.5433/1679-0375.2023.v44.48268
+  title: Real-Time Ego-Lane Detection in a Low-Cost Embedded Platform using CUDA-Based
+    Implementation
+  authors:
+  - "Guilherme Brand\xE3o Da Silva"
+  - Daniel Strufaldi Batista
+  - "D\xE9cio Luiz Gazzoni Filho"
+  - Marcelo Carvalho Tosin
+  - "Leonimer Fl\xE1vio Melo"
+  publisher: "Semina: Ci\xEAncias Exatas e Tecnol\xF3gicas"
+  date: '2023-09-11'
+  link: https://doi.org/gt5bcc
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: doi:10.5753/sbseg.2022.224450
+  title: Evaluation of CRYSTALS-Kyber and Saber on the ARMv8 architecture
+  authors:
+  - Jheyne N. Ortiz
+  - "F\xE9lix Carvalho Rodrigues"
+  - "D\xE9cio Gazzoni Filho"
+  - Caio Teixeira
+  - "Julio L\xF3pez"
+  - Ricardo Dahab
+  publisher: "Anais do XXII Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\xE3\
+    o e de Sistemas Computacionais (SBSeg 2022)"
+  date: '2022-09-12'
+  link: https://doi.org/gt5bcd
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.5753/sbseg.2022.224951
+  title: Evaluation of modular multiplication techniques for Supersingular Isogeny
+    Schemes on ARMv8 cores
+  authors:
+  - Vitor Satoru Machi Matsumine
+  - "F\xE9lix Carvalho Rodrigues"
+  - "D\xE9cio Gazzoni Filho"
+  - Caio Teixeira
+  - "Julio L\xF3pez"
+  - Ricardo Dahab
+  publisher: "Anais do XXII Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\xE3\
+    o e de Sistemas Computacionais (SBSeg 2022)"
+  date: '2022-09-12'
+  link: https://doi.org/gt5bcf
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
 - id: doi:10.62056/anxrxrxqi
   title: Towards Practical Transciphering for FHE with Setup Independent of the Plaintext
     Space
@@ -109,39 +242,6 @@
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.5753/sbseg.2022.224450
-  title: Evaluation of CRYSTALS-Kyber and Saber on the ARMv8 architecture
-  authors:
-  - Jheyne N. Ortiz
-  - "F\xE9lix Carvalho Rodrigues"
-  - "D\xE9cio Gazzoni Filho"
-  - Caio Teixeira
-  - "Julio L\xF3pez"
-  - Ricardo Dahab
-  publisher: "Anais do XXII Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\xE3\
-    o e de Sistemas Computacionais (SBSeg 2022)"
-  date: '2022-09-12'
-  link: https://doi.org/gt5bcd
-  orcid: 0000-0002-2776-5105
-  plugin: orcid.py
-  file: orcid-postdoc.yaml
-- id: doi:10.5753/sbseg.2022.224951
-  title: Evaluation of modular multiplication techniques for Supersingular Isogeny
-    Schemes on ARMv8 cores
-  authors:
-  - Vitor Satoru Machi Matsumine
-  - "F\xE9lix Carvalho Rodrigues"
-  - "D\xE9cio Gazzoni Filho"
-  - Caio Teixeira
-  - "Julio L\xF3pez"
-  - Ricardo Dahab
-  publisher: "Anais do XXII Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\xE3\
-    o e de Sistemas Computacionais (SBSeg 2022)"
-  date: '2022-09-12'
-  link: https://doi.org/gt5bcf
-  orcid: 0000-0002-2776-5105
-  plugin: orcid.py
-  file: orcid-postdoc.yaml
 - id: doi:10.3390/e23091108
   title: 'The Ring-LWE Problem in Lattice-Based Cryptography: The Case of Twisted
     Embeddings'
@@ -1373,106 +1473,6 @@
   orcid: 0000-0002-6540-8686
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.46586/tches.v2025.i1.497-522
-  title: Optimized One-Dimensional SQIsign Verification on Intel and Cortex-M4
-  authors:
-  - Marius A. Aardal
-  - Gora Adj
-  - Arwa Alblooshi
-  - Diego F. Aranha
-  - "Isaac A. Canales-Mart\xEDnez"
-  - "Jorge Ch\xE1vez-Saab"
-  - "D\xE9cio Luiz Gazzoni Filho"
-  - Krijn Reijnders
-  - "Francisco Rodr\xEDguez-Henr\xEDquez"
-  publisher: IACR Transactions on Cryptographic Hardware and Embedded Systems
-  date: '2024-12-09'
-  link: https://doi.org/g9mt89
-  orcid: 0000-0002-6001-2172
-  plugin: orcid.py
-  file: orcid-phd-candidate.yaml
-- id: doi:10.1007/978-3-031-64381-1_3
-  title: "Quasi-optimal Permutation Ranking and\_Applications to\_PERK"
-  authors:
-  - Slim Bettaieb
-  - Alessandro Budroni
-  - Marco Palumbi
-  - "D\xE9cio Luiz Gazzoni Filho"
-  publisher: Lecture Notes in Computer Science
-  date: '2024-01-01'
-  link: https://doi.org/g9mt9b
-  orcid: 0000-0002-6001-2172
-  plugin: orcid.py
-  file: orcid-phd-candidate.yaml
-- id: doi:10.62056/a6n59qgxq
-  title: Efficient isochronous fixed-weight sampling with applications to NTRU
-  authors:
-  - "D\xE9cio Filho"
-  - "Tom\xE1s Silva"
-  - "Julio L\xF3pez"
-  publisher: IACR Communications in Cryptology
-  date: '2024-07-08'
-  link: https://doi.org/gt5bb9
-  orcid: 0000-0002-6001-2172
-  plugin: orcid.py
-  file: orcid-phd-candidate.yaml
-- id: doi:10.1109/arith61463.2024.00012
-  title: 'PQC-AMX: Accelerating Saber and FrodoKEM on the Apple M1 and M3 SoCs'
-  authors:
-  - "D\xE9cio Luiz Gazzoni Filho"
-  - "Guilherme Brand\xE3o"
-  - Gora Adj
-  - Arwa Alblooshi
-  - "Isaac A. Canales-Mart\xEDnez"
-  - "Jorge Ch\xE1vez-Saab"
-  - "Julio L\xF3pez"
-  publisher: 2024 IEEE 31st Symposium on Computer Arithmetic (ARITH)
-  date: '2024-06-10'
-  link: https://doi.org/g9mt9c
-  orcid: 0000-0002-6001-2172
-  plugin: orcid.py
-  file: orcid-phd-candidate.yaml
-- id: doi:10.62056/a3txommol
-  title: Fast polynomial multiplication using matrix multiplication accelerators with
-    applications to NTRU on Apple M1/M3 SoCs
-  authors:
-  - "D\xE9cio Filho"
-  - "Guilherme Brand\xE3o"
-  - "Julio L\xF3pez"
-  publisher: IACR Communications in Cryptology
-  date: '2024-04-09'
-  link: https://doi.org/gt5bcb
-  orcid: 0000-0002-6001-2172
-  plugin: orcid.py
-  file: orcid-phd-candidate.yaml
-- id: doi:10.5753/sbseg.2023.233093
-  title: "Improving FALCON\u2019s Key Generation on ARMv8-A Platforms"
-  authors:
-  - Caio Teixeira
-  - "D\xE9cio Luiz Gazzoni Filho"
-  - "Julio C\xE9sar L\xF3pez Hern\xE1ndez"
-  publisher: "Anais do XXIII Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\
-    \xE3o e de Sistemas Computacionais (SBSeg 2023)"
-  date: '2023-09-18'
-  link: https://doi.org/g9mt9d
-  orcid: 0000-0002-6001-2172
-  plugin: orcid.py
-  file: orcid-phd-candidate.yaml
-- id: doi:10.5433/1679-0375.2023.v44.48268
-  title: Real-Time Ego-Lane Detection in a Low-Cost Embedded Platform using CUDA-Based
-    Implementation
-  authors:
-  - "Guilherme Brand\xE3o Da Silva"
-  - Daniel Strufaldi Batista
-  - "D\xE9cio Luiz Gazzoni Filho"
-  - Marcelo Carvalho Tosin
-  - "Leonimer Fl\xE1vio Melo"
-  publisher: "Semina: Ci\xEAncias Exatas e Tecnol\xF3gicas"
-  date: '2023-09-11'
-  link: https://doi.org/gt5bcc
-  orcid: 0000-0002-6001-2172
-  plugin: orcid.py
-  file: orcid-phd-candidate.yaml
 - id: doi:10.5753/sbseg.2023.233113
   title: 'A Minimal White-Box Dedicated Cipher Proposal Using Incompressible Lookup
     Tables: Space-Hard AES'
