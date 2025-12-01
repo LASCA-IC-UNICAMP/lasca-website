@@ -133,6 +133,18 @@
   orcid: 0000-0002-2776-5105
   plugin: orcid.py
   file: orcid-postdoc.yaml
+- id: doi:10.1145/3719027.3765181
+  title: Fast Amortized Bootstrapping with Small Keys and Polynomial Noise Overhead
+  authors:
+  - "Antonio Guimar\xE3es"
+  - Hilder V. L. Pereira
+  publisher: Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications
+    Security
+  date: '2025-11-19'
+  link: https://doi.org/hbb8nv
+  orcid: 0000-0003-1303-3760
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.62056/anxrxrxqi
   title: Towards Practical Transciphering for FHE with Setup Independent of the Plaintext
     Space
@@ -1574,7 +1586,7 @@
   - Marcus Ritt
   - Felix Rodrigues
   - "Guido Sch\xE4fer"
-  publisher: "Schloss Dagstuhl \u2013 Leibniz-Zentrum f\xFCr Informatik"
+  publisher: OASIcs, Volume 20, ATMOS 2011
   date: '2011-01-01'
   link: https://doi.org/gt5bfk
   orcid: 0000-0002-2776-5105
